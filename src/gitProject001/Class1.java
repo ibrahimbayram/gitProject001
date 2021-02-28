@@ -13,6 +13,9 @@ public class Class1 {
 		//i am on featurebranch and changes made here
 		//How will i get feature branch details to my main?
 		
+		//will i get all changes to main or feature branch
+		
+		
 		
 		
 		
