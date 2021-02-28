@@ -11,6 +11,8 @@ public class Class1 {
 		// Changes from local are welcome to virtual. local will accept from the virtual.
 		// I think this will make me to talk myself during Corona :)
 		//i am on featurebranch and changes made here
+		//How will i get feature branch details to my main?
+		
 		
 		
 		
